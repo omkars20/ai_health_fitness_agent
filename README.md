@@ -36,9 +36,7 @@ Follow the steps below to set up and run the application:
 Before anything else, Please get a free Gemini API Key provided by Google AI here: https://aistudio.google.com/apikey
 
 1. **Clone the Repository**:
-   ```bash
   git clone  https://github.com/omkars20/ai_health_fitness_agent.git
-   ```
 
 2. **Install the dependencies**
     ```bash
